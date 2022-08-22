@@ -1,0 +1,58 @@
+.corpo{
+    background-image: url(./ft/fototodo.jpg);
+}
+
+img{
+    width: 279px;
+    height: 390px;
+    border: black solid;
+    margin-right: 15px;
+   
+}
+
+p{
+    color: black;
+    font-size: larger;
+    background-color: whitesmoke;
+    border: black solid;
+    
+    opacity: 0.9;
+    text-align: center;
+    
+}
+
+
+section{
+    
+    
+    width: 1000px;
+    margin-left:250px;
+    margin-top: 20px;
+    display: flex;
+    
+    
+}
+
+.bg-image{
+    background-image: url(./ft/manga-plus.png);
+    padding: 5em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.titulo{
+    font-family: verdana;
+    color: #CEEAF5 !important;
+    font-size: 20px;
+    text-shadow: 2px 0px 6px #EDFFFE;
+    box-shadow: 3px 1px 1px #FF0F0F;
+    padding: 10px 25px;
+    border-radius: 26px;
+    background: #FF0000;
+    position: absolute;
+}
+
+.titulo:hover {
+    color: #000000 !important;
+    background: #FF0F0F;
+}
